@@ -6,4 +6,4 @@ requests
 streamlit-webrtc
 speechrecognition
 pyaudio
-openai
+openai = 0.28.1
