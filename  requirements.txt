@@ -1,0 +1,9 @@
+streamlit
+groq
+python-dotenv
+reportlab
+requests
+streamlit-webrtc
+speechrecognition
+pyaudio
+openai
