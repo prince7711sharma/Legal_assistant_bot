@@ -1,6 +1,7 @@
 
 streamlit-webrtc
 speechrecognition
+pyaudio==0.2.11
 
 streamlit==1.32.0
 groq==0.22.0
