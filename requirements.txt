@@ -1,13 +1,13 @@
-streamlit
-groq
-python-dotenv
-reportlab
-requests
+
 streamlit-webrtc
 speechrecognition
-pyaudio
-openai==0.28.1
+
 streamlit==1.32.0
+groq==0.22.0
+python-dotenv==1.1.0
+reportlab==4.4.0
+requests==2.32.3
+openai==0.28.1
 flask==2.2.5
-python-dotenv==1.0.1
+
 
