@@ -3,7 +3,7 @@ from groq_helper import get_legal_response
 from utils import generate_pdf
 import speech_recognition as sr
 import datetime
-import pyaudio
+
 
 # Set page config
 st.set_page_config(page_title="Legal Bot", layout="wide")
